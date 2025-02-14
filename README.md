@@ -21,4 +21,4 @@ Ce module est une extension pour Odoo qui permet de gérer des biens immobiliers
 
 ## Structure du Module 
 
-
+<img src="estate_struc.PNG" alt="Structure du projet" width="800"/>
